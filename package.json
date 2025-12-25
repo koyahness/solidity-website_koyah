@@ -20,21 +20,21 @@
     "@emotion/styled": "^11.10.5",
     "@next/font": "13.1.6",
     "@types/node": "18.17.0",
-    "@types/react": "18.0.27",
-    "@types/react-dom": "18.0.10",
+    "@types/react": "18.3.27",
+    "@types/react-dom": "18.3.7",
     "@uiw/react-textarea-code-editor": "^2.1.7",
     "eslint": "8.32.0",
-    "eslint-config-next": "13.1.6",
+    "eslint-config-next": "14.2.35",
     "feed": "^4.2.2",
     "framer-motion": "^8.5.4",
     "js-yaml": "^4.1.0",
     "leaflet": "^1.9.4",
     "leaflet-geosearch": "3.6.1",
-    "next": "14.2.25",
+    "next": "14.2.35",
     "next-remove-imports": "^1.0.11",
     "next-sitemap": "^4.1.8",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-icons": "^4.9.0",
     "react-leaflet": "^4.2.1",
     "react-syntax-highlighter": "^15.5.0",
@@ -51,5 +51,9 @@
     "prettier": "^2.8.3",
     "react-markdown": "^8.0.7",
     "remark-gfm": "^3.0.1"
+  },
+  "resolutions": {
+    "@types/react": "18.3.27",
+    "@types/react-dom": "18.3.7"
   }
 }
